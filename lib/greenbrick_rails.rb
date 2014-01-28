@@ -1,0 +1,2 @@
+module GreenbrickRails
+end
